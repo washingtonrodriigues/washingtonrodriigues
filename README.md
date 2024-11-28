@@ -8,7 +8,9 @@ I'm Washington Rodrigues and i'm 26. In December 2022 I discovered that I could 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/washrodrigues_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Joaokremer](https://www.linkedin.com/in/washington-rodrigues-575162255)) 
 
-# <a href="https://washingtonrodrigues.vercel.app" target="_blank">👨‍💻 Welcome to my Portfolio</a>
+# 👨‍💻 Download my Resume
+♦ Portuguese Version: <a href="https://drive.usercontent.google.com/u/0/uc?id=1QSiACrM6Q999DYEGmkxr3yc4dqG9HkRF&export=download">Download link</a>
+♦ English Version: <a href="https://drive.usercontent.google.com/u/0/uc?id=1mQWqZx_6_CrlBDZSIZEIbDxrqlC6z0qi&export=download">Download link</a>
 
 ## 💻 Technologies and Tools:
 
