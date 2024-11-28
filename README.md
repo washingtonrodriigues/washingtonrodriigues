@@ -2,7 +2,7 @@
 
 ## ♦ About me:
 
-I'm Washington Rodrigues and i'm 26. In December 2022 I discovered that I could become a programmer, working in the technology field, which I have always loved. Since then, i have been studying and improving my knowlegde, firstly as a Front-end Developer and now as a Full Stack Developer. Currently, i work as a Front-end Developer at a company called Redgtech Automation and also as a Full Stack Developer at my agency called Nexus Digital Agency.
+I'm Washington Rodrigues and i'm 26. In December 2022 I discovered that I could become a programmer, working in the technology field, which I have always loved. Since then, I have been studying and improving my knowlegde, firstly as a Front-end Developer and now as a Full Stack Developer. Currently, I work as a Full Stack Developer at a company called Pixelmon Brasil where I am responsible for maintaining and developing new features on the company website.
 
 ## 🌐 Socials
 
