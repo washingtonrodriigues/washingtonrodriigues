@@ -1,7 +1,7 @@
 Hey!  
 I'm Washington, a Brazilian Software Engineer 🇧🇷  
 
-Currently working as a Product Engineer — focused on integrations, backend systems and helping companies scale faster 🚀  
+Currently working as a Product Engineer — focused on integrations, backend systems and helping companies scale faster 
 
 ## Skills  
 
